@@ -1,0 +1,21 @@
+{
+    "name" : "casino",
+    "ingredients" : [
+                        {
+                            "type" : "gin, old tom",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "maraschino",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "bitters, orange",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

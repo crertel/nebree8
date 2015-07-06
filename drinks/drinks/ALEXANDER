@@ -1,0 +1,17 @@
+{
+    "name" : "alexander",
+    "ingrediednts" : [ 
+                        {
+                            "type" : "cognac",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "creme de cacao, brown",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "cream",
+                            "amount" : "3 cl"
+                        }
+    ]
+}

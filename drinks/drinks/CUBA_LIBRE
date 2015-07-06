@@ -1,0 +1,17 @@
+{
+    "name" : "cuba libre",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "cola",
+                            "amount" : "12 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

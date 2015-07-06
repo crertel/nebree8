@@ -1,0 +1,21 @@
+{
+    "name" : "french 75",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "syrup, simple",
+                            "amount" : "2 dash"
+                        },
+                        {
+                            "type" : "champagne",
+                            "amount" : "6 cl"                            
+                        }
+    ]
+}

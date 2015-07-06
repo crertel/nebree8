@@ -1,0 +1,13 @@
+{
+    "name" : "dry martini",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "vermouth, dry",
+                            "amount" : "1 cl"
+                        }                        
+    ]
+}

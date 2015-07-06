@@ -1,0 +1,21 @@
+{
+    "name" : "champagne cocktail",
+    "ingredients" : [
+                        {
+                            "type" : "champagne",
+                            "amount" : "9 cl"
+                        },
+                        {
+                            "type" : "cognac",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "bitters, angostura",
+                            "amount" : "2 dash"
+                        },
+                        {
+                            "type" : "sugar, white",
+                            "amount" : "1 tsp"
+                        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name" : "derby",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "bitters, peach",
+                            "amount" : "2 drop"
+                        },
+                        {
+                            "type" : "leafs, mint",
+                            "amount" : "2 leafs"
+                        }
+    ]
+}

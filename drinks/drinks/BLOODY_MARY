@@ -1,0 +1,34 @@
+{
+    "name" : "bloody mary",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "4.5 cl",
+                        },
+                        {
+                            "type" : "juice, tomato",
+                            "amount" : "9 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "worcesstershire sauce",
+                            "amount" : "2 dash"
+                        },
+                        {
+                            "type" : "sauce, hot",
+                            "brand" : "tobasco",
+                            "amount" : "splash"
+                        },
+                        {
+                            "type" : "salt, celery",
+                            "amount" : "sprinkle"
+                        },
+                        {
+                            "type" : "pepper",
+                            "amount" : "sprinkle"
+                        }
+    ]
+}

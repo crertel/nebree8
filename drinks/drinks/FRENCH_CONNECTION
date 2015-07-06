@@ -1,0 +1,14 @@
+{
+    "name" : "french connection",
+    "ingredients" : [
+                        {
+                            "type" : "cognac",
+                            "amount" : "3.5 cl"
+                        },
+                        {
+                            "type" : "liquer, amaretto",
+                            "brand" : "disaronno",
+                            "amount" : "3.5 cl"
+                        }
+    ]
+}

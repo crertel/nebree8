@@ -1,0 +1,17 @@
+{
+    "name" : "caipirinha",
+    "ingredients" : [
+                        {
+                            "type" : "cachaca",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "sugar, white",
+                            "amount" : "2 tsp"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

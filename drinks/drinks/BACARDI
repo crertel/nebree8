@@ -1,0 +1,18 @@
+{
+    "name" : "bacardi",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "brand" : "bacardi rum white",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "grenadine",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

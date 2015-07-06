@@ -1,0 +1,22 @@
+{
+    "name" : "cosmopolitan",
+    "ingredients" : [
+                        {
+                            "type" : "vodka, citrus",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "cointreau",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, cranberry",
+                            "amount" : "3 cl"
+                        }
+    ]
+}

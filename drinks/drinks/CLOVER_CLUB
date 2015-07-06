@@ -1,0 +1,21 @@
+{
+    "name" : "clover club",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "syrup, raspberry",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "egg white",
+                            "amount" : "dash"
+                        }
+    ]
+}

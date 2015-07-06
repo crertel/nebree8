@@ -1,0 +1,22 @@
+{
+    "name" : "between the sheets",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "cognac",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "triple sec",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "2 cl"
+                        }
+    ]
+}

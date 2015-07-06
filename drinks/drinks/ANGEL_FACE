@@ -1,0 +1,17 @@
+{
+    "name" : "angel face",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "brandy, apricot",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "calvados",
+                            "amount" : "3 cl"
+                        }  
+    ]
+}

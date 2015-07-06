@@ -1,0 +1,20 @@
+{
+    "name" : "b52",
+    "ingredients" [
+                    {
+                        "type" : "kahlua",
+                        "brand" : "kahlua",
+                        "amount" : "2 cl"
+                    },
+                    {
+                        "type" : "cream, irish",
+                        "brand" : "bailey's irish cream",
+                        "amount" : "2 cl",
+                    },
+                    {
+                        "type" : "liquer, orange",
+                        "brand" : "grand marnier",
+                        "amount" : "2 cl"
+                    }
+    ]
+}

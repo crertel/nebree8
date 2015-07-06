@@ -1,0 +1,14 @@
+{
+    "name" : "bellini",
+    "ingredients" : [
+                        {
+                            "type" : "wine, sparkling white",
+                            "brand" : "prosecco"
+                            "amount" : "10 cl"
+                        },
+                        {
+                            "type" : "juice, peach",
+                            "amount" : "5 cl"
+                        }
+    ]
+}

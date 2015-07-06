@@ -1,0 +1,17 @@
+{
+    "name" : "dirty martini",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "vermouth, dry",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "juice, olive",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name" : "americano",
+    "ingredients" : [ 
+                        {
+                            "type" : "campari",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "vermouth, red",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "water, soda",
+                            "amount" : "splash"
+                        }
+    ]
+}

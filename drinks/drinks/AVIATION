@@ -1,0 +1,17 @@
+{
+    "name" : "aviation",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "maraschino",
+                            "amount" "1.5 cl"
+                        },
+                        {
+                            "type" : "lemon juice",
+                            "amount" : "1.5 cl"
+                        }
+    ]
+}

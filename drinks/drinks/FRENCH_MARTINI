@@ -1,0 +1,17 @@
+{
+    "name" : "french martini",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "liquer, raspberry",
+                            "amount" : "1.5 cl",
+                        },
+                        {
+                            "type" : "juice, pineapple",
+                            "amount" : "1.5 cl"
+                        }
+    ]
+}

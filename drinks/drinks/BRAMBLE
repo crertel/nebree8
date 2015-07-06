@@ -1,0 +1,21 @@
+{
+    "name" : "bramble",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "syrup, simple",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "liquer, blackberry",
+                            "amount" : "1.5 cl"
+                        }
+    ]
+}
