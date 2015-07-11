@@ -1,0 +1,17 @@
+{
+    "name" : "paradise",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "3.5 cl"
+                        },
+                        {
+                            "type" : "brandy, apricot",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "1.5 cl"
+                        }
+    ]
+}

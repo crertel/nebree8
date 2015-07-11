@@ -1,0 +1,21 @@
+{
+    "name" : "old fashioned",
+    "ingredients" : [
+                        {
+                            "type" : "whiskey, rye",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : bitters, angostura",
+                            "amount" : "2 dash"
+                        },
+                        {
+                            "type" : "sugar, white",
+                            "amount" : "1 tsp"
+                        },
+                        {
+                            "type" : "water",
+                            "amount" : "3 dash"
+                        }
+    ]
+}

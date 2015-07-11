@@ -1,0 +1,21 @@
+{
+    "name" : "moscow mule",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "4.5 cl",
+                        },
+                        {
+                            "type" : "beer, ginger",
+                            "amount" : "12 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "0.5 cl"
+                        },
+                        {
+                            "type" : "lime",
+                            "amount" : "1 slice"
+                        }
+    ]
+}
