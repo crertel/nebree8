@@ -1,0 +1,13 @@
+{
+    "name" : "mimosa",
+    "ingredients" : [
+                        {
+                            "type" : "champagne",
+                            "amount" : "7.5 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "7.5 cl"
+                        }
+    ]
+}

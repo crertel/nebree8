@@ -1,0 +1,21 @@
+{
+    "name" : "mint julep",
+    "ingredients" : [
+                        {
+                            "type" : "whiskey, bourbon",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "leaf, mint",
+                            "amount" : "4 leafs"
+                        },
+                        {
+                            "type" : "sugar, powdered",
+                            "amount" : "1 tsp"
+                        },
+                        {
+                            "type" : "water",
+                            "amount" : "2 tsp"
+                        }
+    ]
+}

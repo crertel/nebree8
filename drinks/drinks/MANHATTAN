@@ -1,0 +1,17 @@
+{
+    "name" : "manhattan",
+    "ingredients" : [
+                        {
+                            "type" : "whiskey, rye",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "vermouth, red",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "bitters, angostura",
+                            "amount" : "1 dash"
+                        }
+    ]
+}

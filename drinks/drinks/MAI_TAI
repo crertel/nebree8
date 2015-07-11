@@ -1,0 +1,25 @@
+{
+    "name" : "mai tai",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "rum, dark",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "curacao, orange",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "syrup, orgeat",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : " 1 cl"
+                        }
+    ]
+}

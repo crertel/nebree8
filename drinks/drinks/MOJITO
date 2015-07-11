@@ -1,0 +1,25 @@
+{
+    "name" : "mojito",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "leaf, mint",
+                            "amount" : "4 leaf"
+                        },
+                        {
+                            "type" : "sugar, white",
+                            "amount" : "2 tsp"
+                        },
+                        {
+                            "type" : "water, soda"
+                            "amount" : "1 cl"
+                        }
+    ]
+}

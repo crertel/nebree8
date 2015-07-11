@@ -1,0 +1,21 @@
+{
+    "name" : "mary pickford",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "maraschino",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "juice, pineapple",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "syrup, grenadine",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

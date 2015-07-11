@@ -1,0 +1,21 @@
+{
+    "name" : "monkey gland",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "absitnh",
+                            "amount" : "2 drop"
+                        },
+                        {
+                            "type" : "syrup, grenadine",
+                            "amount" : "2 drop"
+                        }
+    ]
+}

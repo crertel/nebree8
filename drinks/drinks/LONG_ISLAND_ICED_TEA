@@ -1,0 +1,38 @@
+{
+    "name" : "long island iced tea",
+    "ingredients" : [
+                        {
+                            "type" : "tequila",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "vodka",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "rum, white",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "triple sec",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "gin",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "2.5 cl"
+                        },
+                        {
+                            "type" : "syrup, gomme",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "cola",
+                            "amount" : "1 dash"
+                        }
+    ]
+}
