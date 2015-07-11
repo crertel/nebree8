@@ -1,0 +1,14 @@
+{
+    "name" : "god father",
+    "ingredients" : [
+                        {
+                            "type" : "scotch",
+                            "amount" : "3.5 cl"
+                        },
+                        {
+                            "type" : "liquor, amaretto",
+                            "brand" : "disaronno",
+                            "amount" : "3.5 cl"
+                        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name" : "grasshopper",
+    "ingredients" : [
+                        {
+                            "type" : "creme de cacao, white",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "creme de menthe, green",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "cream, fresh",
+                            "amount" : "3 cl"
+                        }
+    ]
+}

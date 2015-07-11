@@ -1,0 +1,23 @@
+{
+    "name" : "golden dream",
+    "ingredients" : [
+                        {
+                            "type" : "liquer, vanilla",
+                            "brand" : "galliano",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "triple sec",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "cream, fresh",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

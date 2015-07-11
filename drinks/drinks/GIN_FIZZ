@@ -1,0 +1,21 @@
+{
+    "name" : "gin fizz",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "syrup, simple",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "water, soda",
+                            "amount : "8 cl"
+                        }
+    ]
+}

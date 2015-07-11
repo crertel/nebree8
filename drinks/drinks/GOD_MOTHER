@@ -1,0 +1,13 @@
+{
+    "name" : "god mother",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "3.5 cl"
+                        },
+                        {
+                            "type" : "liquer, amaretto",
+                            "amount" : "3.5 cl"
+                        }
+    ]
+}
