@@ -1,0 +1,21 @@
+{
+    "name" : "hemingway special",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "juice, grapefruit",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "maraschino",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1.5 cl"
+                        }
+    ]
+}

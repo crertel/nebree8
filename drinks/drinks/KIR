@@ -1,0 +1,13 @@
+{
+    "name" : "kir",
+    "ingredients" : [
+                        {
+                            "type" : "wine, white",
+                            "amount" : "9 cl"
+                        },
+                        {
+                            "type" : "creme de cassis",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

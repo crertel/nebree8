@@ -1,0 +1,21 @@
+{
+    "name" : "irish coffee",
+    "ingredients" : [
+                        {
+                            "type" : "whiskey, irish",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "coffee, hot",
+                            "amount" : "9 cl"
+                        },
+                        {
+                            "type" : "cream, fresh",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "sugar, brown",
+                            "amount" : "1 tsp"
+                        }
+    ]    
+}

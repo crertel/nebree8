@@ -1,0 +1,18 @@
+{
+    "name" : "horse's neck",
+    "ingredients" : [
+                        {
+                            "type" : "brandy",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "ginger ale",
+                            "amount" : "12 cl"
+                        },
+                        {
+                            "type" : "bitters, angostura",
+                            "amount" : "1 dash"
+                        }
+
+    ]
+}

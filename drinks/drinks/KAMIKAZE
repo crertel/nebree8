@@ -1,0 +1,18 @@
+{
+    "name" : "kamikaze",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "triple sec",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "3 cl"
+                        }
+    ]
+}
