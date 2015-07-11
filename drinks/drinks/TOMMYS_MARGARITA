@@ -1,17 +1,17 @@
 {
-    "name" : "tequila sunrise",
+    "name" : "tommy's margarita",
     "ingredients" : [
                         {
                             "type" : "tequila",
                             "amount" : "4.5 cl"
                         },
                         {
-                            "type" : "juice, orange",
-                            "amount" : "9 cl"
+                            "type" : "huice, lime",
+                            "amount" : "1.5 cl"
                         },
                         {
-                            "type" : "grenadine",
-                            "amount" : "1.5 cl"
+                            "type" : "nectar, agave",
+                            "amount" : "2 tsp"
                         }
     ]
 }

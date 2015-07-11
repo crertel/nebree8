@@ -1,0 +1,13 @@
+{
+    "name" : "stinger",
+    "ingredients" : [
+                        {
+                            "type" : "cognac",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "creme de menthe, white",
+                            "amount" : "2 cl"
+                        }
+    ]
+}

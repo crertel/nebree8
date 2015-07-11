@@ -1,0 +1,25 @@
+{
+    "name" : "tuxedo",
+    "ingredients" : [
+                        {
+                            "type" : "gin, old tom",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "vermouth, dry",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "maraschino",
+                            "amount" : "0.5 tsp"
+                        },
+                        {
+                            "type" : "absinth",
+                            "amount" : "0.25 tsp"
+                        },
+                        {
+                            "type" : "bitters, orange",
+                            "amount" : "3 dash"
+                        }
+    ]
+}

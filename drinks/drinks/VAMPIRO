@@ -1,0 +1,41 @@
+{
+    "name" : "vampiro",
+    "ingredients" : [
+                        {
+                            "type" : "tequila, silver",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "juice, tomato",
+                            "amount" : "7 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "honey",
+                            "amount" : "1 tsp"
+                        },
+                        {
+                            "type" : "onion, chopped",
+                            "amount" : "0.5 slice"
+                        },
+                        {
+                            "type" : "peppers, red hot chile",
+                            "amount" : "3 slices"
+                        },
+                        {
+                            "type" : "sauce, worchestershire",
+                            "amount" : "3 drop"
+                        },
+                        {
+                            "type" : "salt",
+                            "amount" : "1 dash"
+                        }
+    ]
+}

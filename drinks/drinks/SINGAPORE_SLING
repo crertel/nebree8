@@ -1,0 +1,38 @@
+{
+    "name" : "singapore sling",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "liquer, cherry",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "cointreau",
+                            "amount" : "0.75 cl"
+                        },
+                        {
+                            "type" : "dom benedictine",
+                            "amount" : "0.75 cl"
+                        },
+                        {
+                            "type" : "juice, pineapple",
+                            "amount" : "12 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "grenadine",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "bitters, angostura",
+                            "amount" : "1 dash"
+                        }
+    ]
+}

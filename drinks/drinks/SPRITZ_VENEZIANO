@@ -1,0 +1,17 @@
+{
+    "name" : "spritz veneziano",
+    "ingredients" : [
+                        {
+                            "type" : "wine, white sparkling",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "aperol",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "water, soda",
+                            "amount" : "1 splash"
+                        }
+    ]
+}

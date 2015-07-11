@@ -1,0 +1,21 @@
+{
+    "name" : "vesper",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "vodka",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "lilet blonde",
+                            "amount" : "0.75 cl"
+                        },
+                        {
+                            "type" : "lemon",
+                            "amount" : "1 twist"
+                        }
+    ]
+}

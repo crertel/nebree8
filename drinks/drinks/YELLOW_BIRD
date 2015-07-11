@@ -1,0 +1,22 @@
+{
+    "name" : "yellow bird",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "galliano",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "liquer, orange",
+                            "brand" : "triple sec",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1.5 cl"
+                        }
+    ]
+}
