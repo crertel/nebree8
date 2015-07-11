@@ -1,0 +1,13 @@
+{
+    "name" : "screwdriver",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "10 cl"
+                        }
+    ]
+}

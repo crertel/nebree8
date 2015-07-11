@@ -1,0 +1,19 @@
+{
+    "name" : "rose",
+    "ingredients" : [
+                    {
+                        "type" : "liquer, cherry",
+                        "brand" : "kirschwasser",
+                        "amount" : "2 cl"
+                    },
+                    {
+                        "type" : "vermouth, dry",
+                        "amount" : "4 cl"
+                    },
+                    {
+                        "type" : "syrup, strawberry",
+                        "amount" : "3 dash"
+                    }
+
+    ]
+}

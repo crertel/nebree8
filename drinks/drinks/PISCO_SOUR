@@ -1,0 +1,21 @@
+{
+    "name" : "pisco sour",
+    "ingredients" : [
+                        {
+                            "type" : "pisco",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "syrup, simple",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "egg white",
+                            "amount" : "1 egg"
+                        }
+    ]
+}

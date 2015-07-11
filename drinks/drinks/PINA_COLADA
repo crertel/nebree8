@@ -1,0 +1,17 @@
+{
+    "name" : "pina colada",
+    "ingredients" : [
+                        {
+                            "type" : "rum, white",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "juice, pineapple",
+                            "amount" : "9 cl"
+                        },
+                        {
+                            "type" : "milk, coconut",
+                            "amount" : "3 cl"
+                        }
+    ]
+}

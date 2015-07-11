@@ -1,0 +1,17 @@
+{
+    "name" : "sea breeze",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "juice, cranberry",
+                            "amount" : "12 cl"
+                        },
+                        {
+                            "type" : "juice, grapefruit",
+                            "amount" : "3 cl"
+                        }
+    ]
+}

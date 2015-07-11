@@ -1,0 +1,21 @@
+{
+    "name" : "sex on the beach",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "schnapps, peach",
+                            "amount" : "2 cl"
+                        },
+                        {
+                            "type" : "juice, cranberry",
+                            "amount" : "4 cl"
+                        },
+                        {
+                            "type" : "juice, orange",
+                            "amount" : "4 cl"
+                        }
+    ]
+}

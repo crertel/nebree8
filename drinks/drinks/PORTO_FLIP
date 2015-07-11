@@ -1,0 +1,17 @@
+{
+    "name" : "porto flip",
+    "ingredients" : [
+                        {
+                            "type" : "brandy",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "port, red",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "egg yolk",
+                            "amount" : "1 egg"
+                        }
+    ]
+}

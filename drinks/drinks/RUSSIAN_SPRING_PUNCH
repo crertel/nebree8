@@ -1,0 +1,21 @@
+{
+    "name" : "russian spring punch",
+    "ingredients" : [
+                        {
+                            "type" : "vodka",
+                            "amount" : "2.5 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "2.5 cl"
+                        },
+                        {
+                            "type" : "creme de cassis",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "syrup, simple",
+                            "amount" : "1 cl"
+                        }
+    ]
+}

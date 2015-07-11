@@ -1,0 +1,21 @@
+{
+    "name" : "sazerac",
+    "ingredients" : [
+                        {
+                            "type" : "cognac",
+                            "amount" : "5 cl"
+                        },
+                        {
+                            "type" : "absinthe",
+                            "amount" : "1 cl"
+                        },
+                        {
+                            "type" : "sugar, white",
+                            "amount" : "1 tsp"
+                        },
+                        {
+                            "type" : "bitters, peychaud's"
+                            "amount" : "2 dash"
+                        }
+    ]
+}

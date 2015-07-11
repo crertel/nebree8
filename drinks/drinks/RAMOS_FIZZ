@@ -1,0 +1,41 @@
+{
+    "name" : "ramos fizz",
+    "ingredients" : [
+                        {
+                            "type" : "gin",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "juice, lime",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "juice, lemon",
+                            "amount" : "1.5 cl"
+                        },
+                        {
+                            "type" : "syrup, simple",
+                            "amount" : "3 cl"
+                        },
+                        {
+                            "type" : "cream",
+                            "amount" : "6 cl"
+                        },
+                        {
+                            "type" : "egg white",
+                            "amount" : "1 egg"
+                        },
+                        {
+                            "type" : "water, orange flower",
+                            "amount" : "3 dash"
+                        },
+                        {
+                            "type" : "extract, vanilla",
+                            "amount" : "2 drops"
+                        },
+                        {
+                            "type" : "water, soda",
+                            "amount" : "2 cl"
+                        }
+    ]
+}

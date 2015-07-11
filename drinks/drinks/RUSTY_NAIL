@@ -1,0 +1,13 @@
+{
+    "name" : "rusty nail",
+    "ingredients" : [
+                        {
+                            "type" : "scotch",
+                            "amount" : "4.5 cl"
+                        },
+                        {
+                            "type" : "drambuie",
+                            "amount" : "2.5 cl"
+                        }
+    ]
+}
